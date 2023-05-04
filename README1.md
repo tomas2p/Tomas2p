@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi 👋, I'm Tomás</h1>
-<h3 align="center">A computer ingenier student at ULL</h3>
+<h3 align="center">Computer ingenieer student at ULL</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif"> 
 
