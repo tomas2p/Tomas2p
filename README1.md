@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif"> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomas2p11" alt="tomas2p11" /></a> </p>
-
 - 🌱 I’m currently learning **Godot, C++, Linux shell, etc**
 
 <h3 align="left">Languages and Tools:</h3>
