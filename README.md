@@ -3,10 +3,9 @@
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif"> 
 
-<h4 align="center">Currently learning</h4> <p align="center">
-Godot, C++, Linux shell
-
+<h4 align="center">Languages and tools</h4> <p align="center">
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas2p11&show_icons=true&theme=dark&hide_border=true&locale=es" alt="tomas2p11" /></p>
