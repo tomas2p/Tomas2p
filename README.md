@@ -2,8 +2,8 @@
 <h4 align="center">Computer Engineer student at ULL</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif"> 
-<p>
-Currently learning: **Godot, C++, Linux shell, etc**</p>
+
+<h4 align="left">Currently learning:</h4> **Godot, C++, Linux shell, etc**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas2p11&show_icons=true&theme=dark&hide_border=true&locale=es" alt="tomas2p11" /></p>
 
