@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=tomas2p11&show_icons=true&theme=codeSTACKr&hide_border=true&locale=es&count_private=true" alt="tomas2p11 stats" />
 
-<img alt="Coding" width="140" src="https://i.pinimg.com/originals/67/5e/99/675e9933ecbff7e3e5210d5cce14abc4.gif"> 
+<img alt="Coding" width="130" src="https://64.media.tumblr.com/8295f699635629cb7c96329aeeb79a69/tumblr_o109au2Tod1s335jfo1_r3_540.gif"> 
 
 <img alt="Coding" width="350" src="https://media.tenor.com/EXk99kAF9hUAAAAd/anime-pixel.gif"> 
   
