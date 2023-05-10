@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tomás</h1>
-<h4 align="center">Computer Engineer student at ULL</h4>
-
 <p align="center">
 <img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=tomas2p11&show_icons=true&theme=codeSTACKr&hide_border=true&locale=es&count_private=true" alt="tomas2p11 stats" />
 
