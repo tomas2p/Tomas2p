@@ -5,5 +5,5 @@
 
 <img alt="Coding" width="350" src="https://media.tenor.com/EXk99kAF9hUAAAAd/anime-pixel.gif"> 
   
-<img src="https://github-readme-stats-omega-wheat.vercel.app/api/top-langs/?username=tomas2p&layout=detailed&theme=codeSTACKr&hide_border=true&locale=es&count_private=true" alt="tomas2p languages" />
+<img src="https://github-readme-stats-omega-wheat.vercel.app/api/top-langs/?username=tomas2p&layout=detailed&theme=codeSTACKr&hide_border=true&locale=es&count_private=true&border_radius=30" alt="tomas2p languages" />
 </p>
