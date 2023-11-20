@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=tomas2p&show_icons=true&theme=codeSTACKr&hide_border=true&locale=es&count_private=true&border_radius=5" alt="tomas2p stats" />
+<img src="https://github-readme-stats-omega-wheat.vercel.app/api?username=tomas2p&show_icons=true&theme=codeSTACKr&hide_border=true&locale=es&include_all_commits=true&count_private=true&border_radius=5" alt="tomas2p stats" />
 
 <img alt="Coding" width="350" src="https://media.tenor.com/EXk99kAF9hUAAAAd/anime-pixel.gif"> 
 <!--
