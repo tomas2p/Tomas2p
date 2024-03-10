@@ -19,10 +19,9 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tomas2p&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tomas2p&theme=dark&hide_border=true)
-![](lake_birds.gif)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas2p&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Tomas2p&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&border-radius=0&hide_rank=true&show_icons=true&hide=prs,issues)
+<img width="250" src="lake_birds.gif" alt="">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas2p&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&border-radius=0&hide_progress=true)
 
 <!--
 ## 🏆 GitHub Trophies
