@@ -19,7 +19,7 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tomas2p&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&border-radius=0&hide_rank=true&show_icons=true&hide=prs,issues)
+![](https://github-readme-stats.vercel.app/api?username=Tomas2p&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&border-radius=0&hide_rank=true&show_icons=true&hide=prs,issues)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas2p&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&border-radius=0&hide_progress=true)
 <!--
 <img width="665" src="lake_birds.gif" alt="">
