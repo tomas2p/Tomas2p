@@ -1,9 +1,9 @@
 <table align="center" border="0" cellspacing="0" cellpadding="10">
   <!-- Caja de arriba -->
   <tr>
-    <td colspan="2" valign="down" align="center">
+    <td colspan="2" valign="center" align="center">
 <!--       <h2>Hi 👋! I'm Tomás</h2> -->
-      <p>🌐 Canary Islands • 💻 Dev • 🌱 Learning</p>
+      <h3>🌐 Canary Islands • 💻 Dev • 🌱 Learning</h3>
     </td>
   </tr>
 
