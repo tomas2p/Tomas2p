@@ -3,7 +3,7 @@
   <tr>
     <td colspan="2" valign="center" align="center">
 <!--       <h2>Hi 👋! I'm Tomás</h2> -->
-      <h3>🌐 Canary Islands • 💻 Dev • 🌱 Learning</h3>
+      <h4>🌐 Canary Islands • 💻 Dev • 🌱 Learning</h4>
     </td>
   </tr>
 
