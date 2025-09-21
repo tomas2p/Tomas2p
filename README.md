@@ -3,7 +3,7 @@
   <tr>
     <td colspan="2" align="center">
       <h2>Hi 👋! I'm Tomás</h2>
-      <p>🌐 Canary Islands, Spain</p>
+      <p>🌐 Canary Islands, Spain • 🌱 Always learning • 💻 Coding cool stuff</p>
     </td>
   </tr>
 
@@ -16,7 +16,7 @@
         <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="40"/>
       </p>
       <p>
-        <img src="https://skillicons.dev/icons?i=tailwind,bash,figma,astro" height="40"/>
+        <img src="https://skillicons.dev/icons?i=rust,tailwind,bash,figma,astro" height="40"/>
       </p>
     </td>
     <!-- Columna derecha: imagen -->
@@ -28,8 +28,12 @@
   <!-- Caja de abajo -->
   <tr>
     <td colspan="2" align="center">
-      <p>🌱 Always learning • 💻 Coding cool stuff • 📫 Let's connect!</p>
-      <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=blue" alt="Profile views"/>
+<!--       <p>🌱 Always learning • 💻 Coding cool stuff</p> -->
+<!--       <img src="https://komarev.com/ghpvc/?username=tomas2p&style=flat-square&color=blue" alt="Profile views"/> -->
+      <!-- Stats generales -->
+      <img src="https://github-readme-stats.vercel.app/api?username=tomas2p&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&rank_icon=github" height="150"/>
+      <!-- Lenguajes más usados -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas2p&layout=compact&theme=tokyonight&hide_border=true&border_radius=0" height="150"/>
     </td>
   </tr>
 </table>
