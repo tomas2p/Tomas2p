@@ -3,7 +3,7 @@
   <tr>
     <td colspan="2" align="center">
       <h2>Hi 👋! I'm Tomás</h2>
-      <p>🌐 Canary Islands, Spain • 🌱 Always learning • 💻 Coding cool stuff</p>
+      <p>🌐 Canary Islands • 💻 Dev • 🌱 Lifelong learner</p>
     </td>
   </tr>
 
@@ -22,18 +22,6 @@
     <!-- Columna derecha: imagen -->
     <td valign="middle" align="center" width="50%">
       <img src="https://i.pinimg.com/originals/35/49/be/3549beaae0ba185e62d53e57144caa0d.gif" height="200" alt="Coding gif"/>
-    </td>
-  </tr>
-
-  <!-- Caja de abajo -->
-  <tr>
-    <td colspan="2" align="center">
-<!--       <p>🌱 Always learning • 💻 Coding cool stuff</p> -->
-<!--       <img src="https://komarev.com/ghpvc/?username=tomas2p&style=flat-square&color=blue" alt="Profile views"/> -->
-      <!-- Stats generales -->
-      <img src="https://github-readme-stats.vercel.app/api?username=tomas2p&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0&rank_icon=github" height="150"/>
-      <!-- Lenguajes más usados -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas2p&layout=compact&theme=tokyonight&hide_border=true&border_radius=0" height="150"/>
     </td>
   </tr>
 </table>
