@@ -2,7 +2,7 @@
   <!-- Caja de arriba -->
   <tr>
     <td colspan="2" align="center">
-      <h2>Hi 👋! I'm Tomás</h2>
+<!--       <h2>Hi 👋! I'm Tomás</h2> -->
       <p>🌐 Canary Islands • 💻 Dev • 🌱 Learning</p>
     </td>
   </tr>
