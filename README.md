@@ -2,7 +2,7 @@
   <!-- Caja de arriba -->
   <tr>
     <td colspan="2" valign="center" align="center">
-      <h4>🌐 Canary Islands • 💻 Dev • 🌱 Learning</h4>
+      <p>🌐 Canary Islands • 💻 Dev • 🌱 Learning</p>
     </td>
   </tr>
 
@@ -10,7 +10,7 @@
   <tr>
     <!-- Columna izquierda: tech stack -->
     <td valign="top" align="center" width="50%">
-      <h3>🛠️ Tech Stack</h3>
+      <p>🛠️ Tech Stack</p>
       <p>
         <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="40"/>
       </p>
