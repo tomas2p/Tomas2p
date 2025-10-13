@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🌐 Canary Islands • 💻 Dev  
+## 🌐 Canary Islands • 💻 Dev  
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="40" />
