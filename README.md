@@ -1,8 +1,6 @@
 <div align="center">
 
 #### 🌐 Canary Islands • 💻 Dev • 🌱 Learning  
----
-##### 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="40" />
