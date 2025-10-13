@@ -1,7 +1,7 @@
 <div align="center">
 
-#### 🌐 Canary Islands • 💻 Dev • 🌱 Learning  
----
+### 🌐 Canary Islands • 💻 Dev  
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="40" />
   <img src="https://skillicons.dev/icons?i=rust,tailwind,bash,figma,astro,git" height="40" />
