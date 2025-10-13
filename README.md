@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🌐 Canary Islands • 💻 Dev • 🌱 Learning  
+#### 🌐 Canary Islands • 💻 Dev • 🌱 Learning  
 
 ### 🛠️ Tech Stack
 
