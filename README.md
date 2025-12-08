@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🌐 Canary Islands • 💻 Dev
+## 🌐 Canary Islands • 💻 Dev
 
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" height="40" />
   <img src="https://skillicons.dev/icons?i=rust,tailwind,bash,figma,astro,git" height="40" />
   <img src="https://skillicons.dev/icons?i=arch,obsidian,zen_browser" height="40" />
 </p> -->
-  ## Skills
+  ### Skills
   [![My Skills](https://skillicons.dev/icons?i=ts,py,cpp,rust,tailwind,bash,figma,astro,mongodb,postgres,docker,arduino&perline=6)](https://skillicons.dev)
   
   ### Daily
