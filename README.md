@@ -7,8 +7,8 @@
   <img src="https://skillicons.dev/icons?i=rust,tailwind,bash,figma,astro,git" height="40" />
   <img src="https://skillicons.dev/icons?i=arch,obsidian,zen_browser" height="40" />
 </p> -->
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,rust,tailwind,bash,figma,astro,git,mongodb,postgres,fastapi,vercel&perline=6)](https://skillicons.dev)
   My Skills
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,rust,tailwind,bash,figma,astro,git,mongodb,postgres,fastapi,vercel&perline=6)](https://skillicons.dev)
   
   My Daily
   [![My Daily](https://skillicons.dev/icons?i=arch,obsidian,vscode,github,md,latex&perline=6)](https://skillicons.dev)
