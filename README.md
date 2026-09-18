@@ -9,8 +9,8 @@
   ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Daily
   -->
 
-  **Skills**&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ts,py,cpp,rust,tailwind,bash,figma,astro,mongodb,postgres,docker,fastapi&perline=4)](https://skillicons.dev)
+  **Skills**&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ts,py,cpp,rust,tailwind,bash,figma,astro,mongodb,postgres,docker,fastapi&perline=6)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;
-  [![My Daily](https://skillicons.dev/icons?i=arch,obsidian,neovim,vscodium,github,md&perline=2)](https://skillicons.dev)&nbsp;&nbsp;**Daily**
+  [![My Daily](https://skillicons.dev/icons?i=arch,obsidian,neovim,vscodium,github,md&perline=3)](https://skillicons.dev)&nbsp;&nbsp;**Daily**
 
 </div>
