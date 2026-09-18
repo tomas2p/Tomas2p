@@ -11,6 +11,6 @@
 
   **Skills**&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ts,py,cpp,rust,tailwind,bash,figma,astro,mongodb,postgres,docker,fastapi&perline=4)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;
-  **Daily**&nbsp;&nbsp;[![My Daily](https://skillicons.dev/icons?i=arch,obsidian,neovim,vscodium,github,md&perline=2)](https://skillicons.dev)
+  [![My Daily](https://skillicons.dev/icons?i=arch,obsidian,neovim,vscodium,github,md&perline=2)](https://skillicons.dev)&nbsp;&nbsp;**Daily**
 
 </div>
