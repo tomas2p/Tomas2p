@@ -2,7 +2,7 @@
 
 ## 🇮🇨 Canary Islands • Dev 💻
 
-<!-- <img src="https://i.pinimg.com/originals/35/49/be/3549beaae0ba185e62d53e57144caa0d.gif" height="200" alt="Coding gif"/> -->
+<img src="https://i.pinimg.com/originals/35/49/be/3549beaae0ba185e62d53e57144caa0d.gif" height="200" alt="Coding gif"/>
 
   <!-- (Left align) -->
   <!--
